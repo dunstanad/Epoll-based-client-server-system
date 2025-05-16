@@ -42,17 +42,6 @@ This project uses `epoll`, a Linux-specific system call.
 
 ---
 
-## 🧑‍💻 Compilation
-
-Use the following commands to compile:
-
-```bash
-gcc server.c -o server
-gcc client.c -o client
-```
-
----
-
 ## ▶️ Usage
 
 ### Compile
